@@ -1,5 +1,5 @@
 # supermall
-## 关于项目中所使用的接口baseURL,请自行申请
+## 项目中所使用的接口baseURL在提交的文件中已删除,接口请大家自行申请
 
 ## Project setup
 ```
